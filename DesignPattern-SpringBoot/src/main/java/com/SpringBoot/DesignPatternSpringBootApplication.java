@@ -34,7 +34,7 @@ public class DesignPatternSpringBootApplication {
 		
 		servicee.process();
 		
-		
+		System.out.println("am pshhinggggggggg");
 		
 		/*DatabaseConnection.getInstance().connect(): In the main method of the DesignPatternSpringBootApplication class, 
 		 * we call the getInstance() method of the DatabaseConnection Singleton class, which ensures that 
